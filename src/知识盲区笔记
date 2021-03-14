@@ -1,0 +1,11 @@
+#1.关于Stack和Queue
+第一阶段在刷栈相关的题目，Java中有Stack和Queue的类，其中Stack的出栈入栈方法分别是pop()和push()，Queue的出队入队的方法分别是poll()和offer()
+
+#2.关于peek方法
+在使用Stack的peek方法的时候，需要注意这个方法返回的是一个Object对象，而Object对象是不存在==的比较的
+因此如果使用如下的语句：
+if(stack1.peek() == stack2.peek())
+是不能正常运行的，正确的比较方法应该是像下面这样：
+int value = stack1.peek();
+if(value == stack2.peek())
+这个if语句中就相当于有一个Integer转为int的过程

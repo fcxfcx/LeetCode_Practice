@@ -53,6 +53,8 @@
       <workItem from="1615606105685" duration="7000" />
       <workItem from="1615607426319" duration="1373000" />
       <workItem from="1615634334919" duration="2900000" />
+      <workItem from="1615689440528" duration="3391000" />
+      <workItem from="1615698120100" duration="701000" />
     </task>
     <servers />
   </component>
@@ -64,5 +66,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="395" y="91" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1615607539189" />
+    <state x="498" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615696888951">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1615696888951" />
   </component>
 </project>
