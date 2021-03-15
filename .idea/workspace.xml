@@ -10,6 +10,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaFXApplication" />
         <option value="Class" />
       </list>
     </option>
@@ -55,6 +56,8 @@
       <workItem from="1615634334919" duration="2900000" />
       <workItem from="1615689440528" duration="3391000" />
       <workItem from="1615698120100" duration="701000" />
+      <workItem from="1615775232790" duration="2320000" />
+      <workItem from="1615808268788" duration="776000" />
     </task>
     <servers />
   </component>
