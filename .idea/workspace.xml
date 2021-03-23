@@ -28,19 +28,6 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -68,6 +55,9 @@
       <workItem from="1616375287232" duration="213000" />
       <workItem from="1616380389008" duration="44000" />
       <workItem from="1616397639192" duration="3038000" />
+      <workItem from="1616469575720" duration="217000" />
+      <workItem from="1616477147759" duration="3281000" />
+      <workItem from="1616483353519" duration="5000" />
     </task>
     <servers />
   </component>
@@ -79,10 +69,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="395" y="91" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1615607539189" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616478765984">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1616478765984" />
     <state x="498" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615696888951">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="498" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1615696888951" />
+    <state x="548" y="318" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1616469772046">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="318" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1616469772046" />
     <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1616380427877">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
