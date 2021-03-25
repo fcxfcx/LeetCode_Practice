@@ -29,13 +29,15 @@
     <property name="aspect.path.notification.shown" value="true" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -72,6 +74,7 @@
       <workItem from="1616477147759" duration="3281000" />
       <workItem from="1616483353519" duration="5000" />
       <workItem from="1616577600886" duration="679000" />
+      <workItem from="1616637242544" duration="1351000" />
     </task>
     <servers />
   </component>
