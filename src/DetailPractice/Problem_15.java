@@ -10,7 +10,7 @@ import java.util.*;
  */
 public class Problem_15 {
     public List<List<Integer>> threeSum(int[] nums) {
-        List<List<Integer>> ret = new ArrayList<>();\
+        List<List<Integer>> ret = new ArrayList<>();
         int len = nums.length;
         // 特判
         if(len < 3){
