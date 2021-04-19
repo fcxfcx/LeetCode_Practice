@@ -32,7 +32,46 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Problem_3">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MeiTuan.Main" />
+      <module name="LeetCode_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MeiTuan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MeiTuan.Problem_3" />
+      <module name="LeetCode_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MeiTuan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="newsData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MeiTuan.newsData" />
+      <module name="LeetCode_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MeiTuan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -44,6 +83,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Problem_3" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.newsData" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -110,6 +156,8 @@
       <workItem from="1618458898438" duration="1863000" />
       <workItem from="1618538946632" duration="1719000" />
       <workItem from="1618634211982" duration="2772000" />
+      <workItem from="1618711236678" duration="7313000" />
+      <workItem from="1618797746616" duration="1689000" />
     </task>
     <servers />
   </component>
@@ -129,15 +177,55 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="498" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1615696888951" />
+    <state x="908" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1618717479010">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="908" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1618717479010" />
     <state x="548" y="318" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1616469772046">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="318" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1616469772046" />
+    <state width="418" height="466" key="DebuggerActiveHint" timestamp="1618716044095">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="418" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1618716044095" />
     <state x="686" y="193" key="FileChooserDialogImpl" timestamp="1618147139314">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1617879172951" />
     <state x="686" y="193" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1618147139314" />
+    <state width="1589" height="351" key="GridCell.Tab.0.bottom" timestamp="1618719169046">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1589" height="351" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1618719169046" />
+    <state width="1589" height="351" key="GridCell.Tab.0.center" timestamp="1618719169046">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1589" height="351" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1618719169046" />
+    <state width="1589" height="351" key="GridCell.Tab.0.left" timestamp="1618719169046">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1589" height="351" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1618719169046" />
+    <state width="1589" height="351" key="GridCell.Tab.0.right" timestamp="1618719169046">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1589" height="351" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1618719169046" />
+    <state width="1589" height="351" key="GridCell.Tab.1.bottom" timestamp="1618719169046">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1589" height="351" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1618719169046" />
+    <state width="1589" height="351" key="GridCell.Tab.1.center" timestamp="1618719169046">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1589" height="351" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1618719169046" />
+    <state width="1589" height="351" key="GridCell.Tab.1.left" timestamp="1618719169046">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1589" height="351" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1618719169046" />
+    <state width="1589" height="351" key="GridCell.Tab.1.right" timestamp="1618719169046">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1589" height="351" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1618719169046" />
     <state x="249" y="0" key="SettingsEditor" timestamp="1617878830947">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -152,11 +240,22 @@
     </state>
     <state x="531" y="236" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1618279542029" />
     <state x="425" y="187" key="run.anything.popup/1920.-250.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1616400771905" />
-    <state x="431" y="145" width="672" height="679" key="search.everywhere.popup" timestamp="1618195446420">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="539" y="183" width="840" height="856" key="search.everywhere.popup" timestamp="1618717035937">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="431" y="145" width="672" height="679" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1618195446420" />
-    <state x="539" y="183" width="840" height="856" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1618024739472" />
+    <state x="539" y="183" width="840" height="856" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1618717035937" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/1920.-250.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1616400154088" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MeiTuan/Problem_3.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
