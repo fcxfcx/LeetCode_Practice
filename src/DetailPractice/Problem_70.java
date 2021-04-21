@@ -3,6 +3,8 @@ package DetailPractice;
 /**
  * @author Chuxing, Fang
  * @version 1.0
+ * Problem 70. 爬楼梯
+ * 标签：动态规划，滚动数组
  */
 public class Problem_70 {
     public int climbStairs(int n) {
