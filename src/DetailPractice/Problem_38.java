@@ -1,4 +1,4 @@
-package Offer;
+package DetailPractice;
 
 import java.util.*;
 
