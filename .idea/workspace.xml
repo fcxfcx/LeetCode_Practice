@@ -99,13 +99,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -219,6 +221,7 @@
       <workItem from="1620358257663" duration="673000" />
       <workItem from="1620450113707" duration="1540000" />
       <workItem from="1620538797229" duration="850000" />
+      <workItem from="1620615844664" duration="649000" />
     </task>
     <servers />
   </component>
@@ -306,11 +309,11 @@
     </state>
     <state x="531" y="236" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1619587115803" />
     <state x="425" y="187" key="run.anything.popup/1920.-250.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1616400771905" />
-    <state x="539" y="183" width="840" height="856" key="search.everywhere.popup" timestamp="1619844653836">
+    <state x="539" y="183" width="840" height="856" key="search.everywhere.popup" timestamp="1620616372503">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="431" y="145" width="672" height="679" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1618195446420" />
-    <state x="539" y="183" width="840" height="856" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1619844653836" />
+    <state x="539" y="183" width="840" height="856" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1620616372503" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/1920.-250.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1616400154088" />
   </component>
   <component name="XDebuggerManager">
