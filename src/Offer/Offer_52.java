@@ -6,7 +6,7 @@ package Offer;
  * Problem 52. 两个链表的第一个公共节点
  * 标签：双指针
  */
-public class Problem_52 {
+public class Offer_52 {
     public class ListNode {
         int val;
         ListNode next;
